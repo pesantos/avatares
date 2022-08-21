@@ -1,0 +1,17 @@
+{
+  "name": "avatares",
+  "version": "1.0.0",
+  "description": "Projeto para estudo básico html css e javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css",
+    "javascript",
+    "html",
+    "estudos"
+  ],
+  "author": "Paulo Eduardo Santos",
+  "license": "ISC"
+}
